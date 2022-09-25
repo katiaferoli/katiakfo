@@ -1,0 +1,42 @@
+
+---
+title: "Atividade 02 ESPR 2F"
+output: html_document
+date: '2022'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Instruções: Utilize o .Rmd disponibilizado para responder as questões e gerar o .html que será enviado. Utilize as anotações de aula e os livros texto para auxiliar no desenvolvimento dos aspectos teóricos da atividade. 
+
+
+## Considere o conjunto de dados do levantamento de informações da sala disponível no RStudio Cloud da Turma 2F. Resolva as seguintes questões. 
+
+
+
+### 1. Considere a idade dos cadetes da turma 2E armazenadas na coluna Age do conjunto de dados. Determine as frequências relativas de cada uma das possíveis idades. Construa um gráfico de barras para apresentar os resultados do item anterior.
+
+### 2. Considere que um aluno é selecionado aleatóriamente. Determine a probabilidade de obter idade maior ou igual a 19 e menor ou igual a 21. 
+### 2.1 Considere que A={idade maior ou igual a 19 e menor igual a 22} e B={idade maior que 20 e menor ou igual a 23. Calcule a probabilidade de que o aluno esteja em A ou B.
+
+### 3. Considere o tipo de cabelo da turma 2E armazenadas na coluna Hair.Color do conjunto de dados. Determine as frequências relativas de cada elemento. 
+### 3.1 Construa um gráfico de barras para apresentar os resultados do item anterior.
+### 3.2 Suponha que três alunos são escolhidos de forma aleatória e independentes. Determine a probabilidade de que todos tenham cabelo castanho.
+### 3.3 Suponha que 5 alunos são escolhidos de forma aleatória e independentes. Determine a probabilidade de que 3 deles tenham cabelo castanho.
+
+### 4. Considere as variáveis sexo (Sex) e cor do cabelo (Hair.Color). Resolva as questões a seguir: Construa a tabela de distribuição de frequências (tabela de dupla entrada).
+
+### 4.1 Suponha que um aluno é selecionado aleatóriamente, sabendo que é do sexo masculino, determine a probabilidade de ter cabelo preto.
+
+### 4.2 Suponha que um aluno é selecionado aleatóriamente, sabendo que tem cabelo castanho, determine a probabilidade de ter cabelo castanho.
+
+### 5. Selecione duas variáveis e proponha um problema envolvendo probabilidades condicionais utilizando a tabela de distribuição de frequências. Resolva o problema proposto utilizando o R.
+
+### 6. Selecione duas variáveis e proponha um problema envolvendo probabilidades condicionais para que a solução seja feita pelo diagrama da árvore.
+Observação: O diagrama pode ser resolvido a mão, ou usando um aplicativo para gerá-lo, e adicionado a atividade em formato de imagem.
+
+### 7. Proponha um problema envolvendo probabilidades condicionais e que seja relacionado ao contexto da FAB ou AFA que utilize técnica do diagrama da árvore ou equivalente algébrico. Resolva o problema proposto utilizando o R.
+
+### 8. Proponha um problema envolvendo probabilidades condicionais e que seja relacionado ao contexto da FAB ou AFA. Resolva o problema proposto utilizando o R
